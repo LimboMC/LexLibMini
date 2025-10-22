@@ -1,0 +1,17 @@
+﻿  glad.c
+  miniaudio.c
+  lex.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_ostream.hpp(824,9): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  (compiling source file 'lex.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_ostream.hpp(824,9):
+      the template instantiation context (the oldest one first) is
+          C:\API\LexEngine\LexEngine\lex.cpp(17,23):
+          see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)' being compiled
+  
+  lexTexture.cpp
+  main.cpp
+  stb.cpp
+     Creating library C:\API\LexEngine\x64\Release\LexEngine.lib and object C:\API\LexEngine\x64\Release\LexEngine.exp
+  Generating code
+  Finished generating code
+  LexEngine.vcxproj -> C:\API\LexEngine\x64\Release\LexEngine.dll
