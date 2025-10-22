@@ -10,4 +10,4 @@
 //______________________________
 This project is for learning purposes, created from OpenGL exercises found on YouTube.
 //______________________________
-![LexEngine Preview](ASSET/Planet_Test_LexLibMini.png)
+![LexEngine Preview](LexEngine/ASSET/Planet_Test_LexLibMini.png)
